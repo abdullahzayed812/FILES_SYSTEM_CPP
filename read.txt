@@ -1,0 +1,7 @@
+hello this is first working in file system with c++
+the second line in the read file.
+Mohamed ali hassan
+
+Mohamed ali hassan
+
+Mohamed ali hassan
